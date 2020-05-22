@@ -3,9 +3,9 @@
 ! Maintainer: https://github.com/soerenkoehler/uFilters
 
 DHL Packstation
-  paket.de *
+  dhl.de *
     _ 1st-party script
-    _ google.com frame
-    _ google.com script
-    _ google.com xhr
-    _ www.gstatic.com script
+!    _ google.com frame
+!    _ google.com script
+!    _ google.com xhr
+!    _ www.gstatic.com script
