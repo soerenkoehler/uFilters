@@ -4,5 +4,5 @@
 
 GOG Website
   gog.com *
-    gog.com 1st-party script allow
-    gog.com gog-statics.com script allow
+    gog.com 1st-party script
+    gog.com gog-statics.com script
