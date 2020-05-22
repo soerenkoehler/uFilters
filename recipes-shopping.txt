@@ -1,0 +1,11 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: Some of my own uMatrix-Rulesets
+! Maintainer: https://github.com/soerenkoehler/uFilters
+
+DHL Packstation
+  paket.de *
+    _ 1st-party script
+    _ google.com frame
+    _ google.com script
+    _ google.com xhr
+    _ www.gstatic.com script
