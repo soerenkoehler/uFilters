@@ -3,6 +3,6 @@
 ! Maintainer: https://github.com/soerenkoehler/uFilters
 
 GOG Website
-  gog.com
+  gog.com *
     gog.com 1st-party script allow
     gog.com gog-statics.com script allow
