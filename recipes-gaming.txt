@@ -6,3 +6,9 @@ GOG Website
   gog.com *
     gog.com 1st-party script
     gog.com gog-statics.com script
+
+Wowhead minimal
+  wowhead.com *
+    wowhead.com 1st-party script allow
+    wowhead.com ajax.googleapis.com script allow
+    wowhead.com zamimg.com script block
