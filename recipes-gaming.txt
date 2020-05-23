@@ -9,6 +9,6 @@ GOG Website
 
 Wowhead minimal
   wowhead.com *
-    wowhead.com 1st-party script allow
-    wowhead.com ajax.googleapis.com script allow
-    wowhead.com zamimg.com script block
+    wowhead.com 1st-party script
+    wowhead.com ajax.googleapis.com script
+    wowhead.com zamimg.com script
