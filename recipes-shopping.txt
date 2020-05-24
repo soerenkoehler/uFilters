@@ -11,7 +11,7 @@ DHL Packstation
     _ www.gstatic.com script
 
 Amazon Minimal
-  amazon.de
+  amazon.de *
     _ 1st-party script
     _ ssl-images-amazon.com script
 
