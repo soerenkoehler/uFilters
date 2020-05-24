@@ -9,3 +9,15 @@ DHL Packstation
     _ google.com script
     _ google.com xhr
     _ www.gstatic.com script
+
+Amazon Minimal
+  amazon.de
+    _ 1st-party script
+    _ ssl-images-amazon.com script
+
+Paypal
+  paypal.com *
+    _ 1st-party script
+    _ paypalobjects.com frame
+    _ paypalobjects.com script
+    _ paypalobjects.com xhr
