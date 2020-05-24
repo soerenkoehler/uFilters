@@ -4,11 +4,11 @@
 
 GOG Website
   gog.com *
-    gog.com 1st-party script
-    gog.com gog-statics.com script
+    _ 1st-party script
+    _ gog-statics.com script
 
 Wowhead minimal
   wowhead.com *
-    wowhead.com 1st-party script
-    wowhead.com ajax.googleapis.com script
-    wowhead.com zamimg.com script
+    _ 1st-party script
+    _ ajax.googleapis.com script
+    _ zamimg.com script
