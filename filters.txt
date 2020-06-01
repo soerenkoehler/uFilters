@@ -176,6 +176,7 @@ spiegel.de##body > header
 spiegel.de##article section section
 spiegel.de##[data-component="JWPlayer"]
 spiegel.de##[data-app-hidden]
+@@||sp-prod.net^$script,xhr,domain=spiegel.de
 
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
