@@ -1,0 +1,11 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: Some of my own uMatrix-Rulesets
+! Maintainer: https://github.com/soerenkoehler/uFilters
+
+Wetterzentrale
+  wetterzentrale.de *
+    _ 1st-party script
+    _ ajax.googleapis.com script
+    _ cloudflare.com script
+    _ highcharts.com script
+	https-strict: _ false
