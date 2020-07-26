@@ -94,6 +94,7 @@ facebook.com##div[aria-label="See More"]
 facebook.com##div[data-pagelet="Stories"]
 facebook.com##div[data-pagelet="VideoChatHomeUnit"]
 facebook.com##a[href*="/coronavirus"]
+facebook.com##a[href*="/fundraisers"]
 facebook.com##a[href*="/marketplace"]
 facebook.com##a[href*="/watch/"]
 
