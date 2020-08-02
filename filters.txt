@@ -193,6 +193,7 @@ youhaventlived.com##[src*="facebook.com"]
 
 youtube.com###chat
 youtube.com###chips
+youtube.com###footer
 youtube.com##a[href="/feed/trending"]
 youtube.com##a[href="/feed/purchases"]
 youtube.com##a[href="/feed/library"]
