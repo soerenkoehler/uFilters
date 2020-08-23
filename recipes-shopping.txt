@@ -15,6 +15,20 @@ Amazon Minimal
     _ 1st-party script
     _ ssl-images-amazon.com script
 
+Amazon Video
+  amazon.de *
+    _ 1st-party script
+    _ aiv-cdn.net script allow
+    _ aiv-cdn.net xhr allow
+    _ aiv-delivery.net xhr allow
+    _ akamaihd.net xhr allow
+    _ amazon.co.uk xhr allow
+    _ amazon.com xhr allow
+    _ cloudfront.net xhr allow
+    _ media-amazon.com script allow
+    _ ssl-images-amazon.com script allow
+    _ ssl-images-amazon.com xhr allow
+
 Paypal
   paypal.com *
     _ 1st-party script
