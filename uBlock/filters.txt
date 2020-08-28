@@ -173,6 +173,7 @@ schriftwechsel.wordpress.com###masthead
 
 scinexx.de##.header-middle
 scinexx.de###readspeaker_button1
+scinexx.de###sticky-header
 
 spiegel.de##footer
 spiegel.de##aside
