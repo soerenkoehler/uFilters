@@ -172,8 +172,10 @@ paypal.de##.toolbar
 schriftwechsel.wordpress.com###masthead
 
 scinexx.de##.header-middle
-scinexx.de###readspeaker_button1
 scinexx.de###sticky-header
+scinexx.de###header-ads
+scinexx.de###footer
+scinexx.de###readspeaker_button1
 
 spiegel.de##footer
 spiegel.de##aside
