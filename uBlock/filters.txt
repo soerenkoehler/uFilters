@@ -188,6 +188,7 @@ spiegel.de##[data-app-hidden]
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
 
+wikimedia.org###centralNotice
 wikipedia.org##DIV[id*="Notice"]
 
 wordpress.com##.updated
