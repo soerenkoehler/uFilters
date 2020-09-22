@@ -1,3 +1,26 @@
+# ---------- #
+# host rules #
+# ---------- #
+
+||amazon-adsystem.com^
+||appspot.com^
+||bento.de^
+||google-analytics.com^
+||googletagmanager.com^
+||ioam.de^
+||iqcontentplatform.de^
+||laterpay.net^
+||meetrics.net^
+||mpnrs.com^
+||mxcdn.net^
+||nuggad.net^
+||parsely.com^
+||uobsoe.com^
+||veeseo.com^
+||vgwort.de^
+||wt-safetag.com^
+||ze.tt^
+
 # -------------------------------------------- #
 # keep legal exclusions from third party lists #
 # -------------------------------------------- #
