@@ -87,7 +87,6 @@ boingboing.net###next-post-thumbnails
 boingboing.net###sidebar
 boingboing.net###footer
 boingboing.net###mainimage
-||boingboing.net/wp-content/plugins/$script,important
 
 der-postillon.com##.reklame-bs-quiz.widget
 der-postillon.com###sidebar
@@ -95,7 +94,6 @@ der-postillon.com###comments
 der-postillon.com##.advice-logo
 der-postillon.com###head
 der-postillon.com###cookieChoiceInfo
-||der-postillon.com$script,important
 
 deutsche-bank.de##.teaser
 deutsche-bank.de###topicContainer > ._.redDotSnippet.advice
@@ -105,6 +103,7 @@ deutsche-bank.de###localNavigation > .indicatorNew
 deutschlandfunk.de##header
 deutschlandfunk.de##.dlf-relatedslide
 deutschlandfunk.de##.dlf-headsocial
+# Mediathek
 ||http://www.deutschlandfunk.de/xtcore$script,important
 
 dexonline.ro##.navbar-default.navbar
@@ -141,8 +140,6 @@ golem.de##.g2
 golem.de##.gnlform
 golem.de##div.tags
 golem.de##div[class*="social-"]
-||golem.de/staticrl/scripts/external/$script,important
-||golem.de/microsite/abo/
 ||golem.de/*/sp_*_rc.jpg
 
 # Google Maps Info Sidepanel
@@ -182,8 +179,6 @@ leo.org##.l-www-adv
 leo.org##.l-dict-adv
 leo.org###adv-halfpage
 
-meteomedia.de##a[href="http://www.wetter24.de"]
-
 openstreetmap.org##.welcome
 openstreetmap.org###sotm
 openstreetmap.org###banner
@@ -199,14 +194,6 @@ scinexx.de###sticky-header
 scinexx.de###header-ads
 scinexx.de###footer
 scinexx.de###readspeaker_button1
-
-spiegel.de##footer
-spiegel.de##aside
-spiegel.de##body > header
-spiegel.de##article section section
-spiegel.de##[data-component="JWPlayer"]
-spiegel.de##[data-app-hidden]
-@@||sp-prod.net^$script,xhr,domain=spiegel.de
 
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
