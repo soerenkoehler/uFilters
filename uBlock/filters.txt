@@ -176,6 +176,8 @@ ionos.de##.page-section--advertising
 ionos.de##.page-footer
 ionos.de##.adserver
 ionos.de###adserver-banner-top
+ionos.de###adserver-banner-detail-servers
+ionos.de###ads-id-cp_servers_details_stripe
 
 leo.org###topBranding
 leo.org###footer
