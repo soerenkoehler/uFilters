@@ -171,8 +171,6 @@ inoreader.com##.add_content_simulated_button
 inoreader.com###static_search_menu_container
 inoreader.com###static_search_menu
 
-ionos.de##.privacy-consent--modal
-ionos.de##.privacy-consent--backdrop
 ionos.de##.__direct-selection
 ionos.de##.page-section--advertising
 ionos.de##.page-footer
@@ -180,6 +178,7 @@ ionos.de##.adserver
 ionos.de###adserver-banner-top
 ionos.de###adserver-banner-detail-servers
 ionos.de###ads-id-cp_servers_details_stripe
+||frontend-services.ionos.com/t/privacyconsent/*$script
 
 leo.org###topBranding
 leo.org###footer
