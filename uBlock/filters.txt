@@ -208,6 +208,8 @@ scinexx.de###readspeaker_button1
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
 
+twitter.com##div[aria-label~="Trending"]
+
 wikimedia.org###centralNotice
 wikipedia.org##DIV[id*="Notice"]
 
