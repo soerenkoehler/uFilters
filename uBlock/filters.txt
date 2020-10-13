@@ -213,7 +213,6 @@ twitter.com##div:has(> div > div > h2:has-text(/suggested for you|topics to foll
 twitter.com##div:has(> div > div > div > div > div > div > div > div > span:has-text(/follow/i))
 twitter.com##div:has(> div > a > div > div > div > div > span:has-text(/follow/i))
 twitter.com##div:has(> div > a:has-text(/show more|more topics/i))
-twitter.com##section > div > div > div:has(> div > div:not(:min-text-length(1)))
 twitter.com##div:has(> aside[aria-label*="Who to follow"])
 
 wikimedia.org###centralNotice
