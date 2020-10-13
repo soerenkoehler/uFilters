@@ -208,12 +208,13 @@ scinexx.de###readspeaker_button1
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
 
-twitter.com##div[aria-label~="Trending"]
+twitter.com##div[aria-label*="Trending"]
 twitter.com##div:has(> div > div > h2:has-text(/suggested for you|topics to follow/i))
 twitter.com##div:has(> div > div > div > div > div > div > div > div > span:has-text(/follow/i))
 twitter.com##div:has(> div > a > div > div > div > div > span:has-text(/follow/i))
 twitter.com##div:has(> div > a:has-text(/show more|more topics/i))
 twitter.com##section > div > div > div:has(> div > div:not(:min-text-length(1)))
+twitter.com##aside[aria-label*="Who to follow"]
 
 wikimedia.org###centralNotice
 wikipedia.org##DIV[id*="Notice"]
