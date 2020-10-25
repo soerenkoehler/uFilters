@@ -100,6 +100,8 @@ deutsche-bank.de###topicContainer > ._.redDotSnippet.advice
 deutsche-bank.de###accountTurnoversForm > .formAction > .previousStep
 deutsche-bank.de###localNavigation > .indicatorNew
 
+deutschepost.de##.swiper-wrapper
+
 deutschlandfunk.de##header
 deutschlandfunk.de##.dlf-relatedslide
 deutschlandfunk.de##.dlf-headsocial
