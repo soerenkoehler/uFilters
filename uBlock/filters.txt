@@ -206,6 +206,7 @@ scinexx.de###sticky-header
 scinexx.de###header-ads
 scinexx.de###footer
 scinexx.de###readspeaker_button1
+scinexx.de###div[id*="iqadtile"]
 
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
@@ -220,7 +221,7 @@ twitter.com##div:has(> aside[aria-label*="Who to follow"])
 twitter.com##div:has(> aside[aria-label*="Relevant people"])
 
 wikimedia.org###centralNotice
-wikipedia.org##DIV[id*="Notice"]
+wikipedia.org##div[id*="Notice"]
 
 wordpress.com##.updated
 wordpress.com###wordads-preview-parent
