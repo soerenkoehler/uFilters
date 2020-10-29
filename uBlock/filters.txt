@@ -47,6 +47,8 @@
 1und1.de###teaser-carousel-sales
 1und1.de###teaser-carousel-did-you-know
 1und1.de###x-sell-notification-container
+1und1.de###notifications
+1und1.de###tcr-survey
 
 amazon.de##.adStripe2
 amazon.de###OneClickBox
