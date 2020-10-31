@@ -140,6 +140,8 @@ golem.de###abo-clip
 golem.de###pricehits
 golem.de###recently
 golem.de###newsletter
+golem.de##.specialletters
+golem.de##.topics
 golem.de##.promos
 golem.de##.activity
 golem.de##.g2
