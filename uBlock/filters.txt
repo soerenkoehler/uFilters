@@ -124,6 +124,7 @@ facebook.com##a[href*="/fundraisers"]
 facebook.com##a[href*="/marketplace"]
 facebook.com##a[href*="/watch/"]
 facebook.com###pagelet_megaphone
+facebook.com##div[data-pagelet="RightRail"] div:has-text(/sponsored/i)
 
 github.com##.signup-prompt
 github.com##.hx_cookie-banner
