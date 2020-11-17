@@ -125,6 +125,8 @@ facebook.com##a[href*="/marketplace"]
 facebook.com##a[href*="/watch/"]
 facebook.com###pagelet_megaphone
 facebook.com##div[data-pagelet="RightRail"] div:has-text(/sponsored/i)
+facebook.com##div[role="article"]:has(a[aria-label="Sponsored"])
+facebook.com##div[role="article"]:has(a[href*="/ads/"])
 
 github.com##.signup-prompt
 github.com##.hx_cookie-banner
