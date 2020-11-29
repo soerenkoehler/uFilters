@@ -258,5 +258,6 @@ zeit.de##.advertising
 zeit.de###addefend-overlay
 zeit.de###overlay-addefend
 zeit.de###data-protection-overlay
+zeit.de##.paywall-footer
 zeit.de##article form
 ||zeit.de/static/js$script,important
