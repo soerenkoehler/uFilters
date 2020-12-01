@@ -156,6 +156,8 @@ golem.de##div[class*="social-"]
 # Google Maps Info Sidepanel
 google.com##.widget-homescreen
 
+harzer-volksbank.de##.werbungnopadding
+
 heise.de###bannerzone
 heise.de##.a-pvgs
 heise.de##.pvg-widget
