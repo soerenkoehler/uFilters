@@ -254,6 +254,7 @@ zeit.de##.footer
 zeit.de##.comment-section__item.comment-section__form
 zeit.de###nextread
 zeit.de##.nextread-advertisement
+zeit.de##.article-series
 zeit.de##.article__item.article-tags
 zeit.de##.article__item.article-footer
 zeit.de##.advertising
