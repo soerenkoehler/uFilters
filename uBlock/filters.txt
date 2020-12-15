@@ -130,7 +130,6 @@ facebook.com##div[role="article"]:has(a[href*="/ads/"])
 
 github.com##.signup-prompt
 github.com##.hx_cookie-banner
-github.com##.discussion-timeline-actions
 
 golem.de###golem-cookie-accept
 golem.de###video-clip
