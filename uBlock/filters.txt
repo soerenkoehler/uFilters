@@ -226,6 +226,7 @@ twitter.com##section > div > div > div:has(> div > div > div > div > div > div >
 twitter.com##section > div > div > div:has(> div > a > div > div > div > div > span:has-text(/follow$/i))
 twitter.com##section > div > div > div:has(> div > a[href*="/i/"]:has-text(/show more|more topics/i))
 twitter.com##section > div > div > div:has(> div > div:not(:min-text-length(1)))
+twitter.com##div:has(> div > div > h2:has-text(/Who to follow/))
 twitter.com##div:has(> aside[aria-label*="Who to follow"])
 twitter.com##div:has(> aside[aria-label*="Relevant people"])
 
