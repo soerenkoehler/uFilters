@@ -236,6 +236,10 @@ wikipedia.org##div[id*="Notice"]
 wordpress.com##.updated
 wordpress.com###wordads-preview-parent
 
+yello.de##.survey--simple
+yello.de##.swiper-container
+yello.de##.story
+
 youhaventlived.com##[src*="facebook.com"]
 
 youtube.com###chat
