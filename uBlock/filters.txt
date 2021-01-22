@@ -249,7 +249,6 @@ youtube.com##a[href="/feed/trending"]
 youtube.com##a[href="/feed/purchases"]
 youtube.com##a[href="/feed/library"]
 youtube.com##a[href*="/feed/storefront"]
-youtube.com##a[href*="/channel"]
 youtube.com##a[href="/gaming"]
 youtube.com##a[href="/premium"]
 
