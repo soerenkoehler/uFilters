@@ -251,6 +251,8 @@ youtube.com##a[href="/feed/library"]
 youtube.com##a[href*="/feed/storefront"]
 youtube.com##a[href="/gaming"]
 youtube.com##a[href="/premium"]
+youtube.com###guide-renderer div ytd-guide-section-renderer:nth-child(3)
+youtube.com###guide-renderer div ytd-guide-section-renderer:nth-child(4)
 
 zeit.de##.sticky-nav
 zeit.de##.footer
