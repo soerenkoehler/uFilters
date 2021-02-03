@@ -204,9 +204,10 @@ openstreetmap.org##.welcome
 openstreetmap.org###sotm
 openstreetmap.org###banner
 
+paypal.com##.cw_tile-promo-widget
 paypal.com###js_engagementModuleView
-paypal.de##.slide
-paypal.de##.toolbar
+paypal.com##.slide
+paypal.com##.toolbar
 
 schriftwechsel.wordpress.com###masthead
 
