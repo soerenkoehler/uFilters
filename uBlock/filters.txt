@@ -103,6 +103,7 @@ deutsche-bank.de###accountTurnoversForm > .formAction > .previousStep
 deutsche-bank.de###localNavigation > .indicatorNew
 
 deutschepost.de##.swiper-wrapper
+deutsche-bank.de##cms-snippet
 
 deutschlandfunk.de##header
 deutschlandfunk.de##.dlf-relatedslide
