@@ -101,9 +101,9 @@ deutsche-bank.de##.teaser
 deutsche-bank.de###topicContainer > ._.redDotSnippet.advice
 deutsche-bank.de###accountTurnoversForm > .formAction > .previousStep
 deutsche-bank.de###localNavigation > .indicatorNew
+deutsche-bank.de###headerContainer > cms-snippet
 
 deutschepost.de##.swiper-wrapper
-deutsche-bank.de###headerContainer > cms-snippet
 
 deutschlandfunk.de##header
 deutschlandfunk.de##.dlf-relatedslide
