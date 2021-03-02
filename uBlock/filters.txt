@@ -162,6 +162,7 @@ heise.de###bannerzone
 heise.de##.a-pvgs
 heise.de##.pvg-widget
 heise.de##.a-ad
+heise.de##.bcadv
 heise.de##.ad-container
 heise.de##.ho-stage-container
 heise.de##.recommendations
