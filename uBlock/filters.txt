@@ -250,10 +250,11 @@ youhaventlived.com##[src*="facebook.com"]
 youtube.com###chat
 youtube.com###chips
 youtube.com###footer
-youtube.com##a[href="/feed/trending"]
-youtube.com##a[href="/feed/purchases"]
+youtube.com##a[href="/feed/explore"]
 youtube.com##a[href="/feed/library"]
-youtube.com##a[href*="/feed/storefront"]
+youtube.com##a[href="/feed/purchases"]
+youtube.com##a[href="/feed/storefront"]
+youtube.com##a[href="/feed/trending"]
 youtube.com##a[href="/gaming"]
 youtube.com##a[href="/premium"]
 youtube.com###guide-renderer div ytd-guide-section-renderer:nth-child(3)
