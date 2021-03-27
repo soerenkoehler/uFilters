@@ -159,6 +159,7 @@ golem.de##.icon-save-article-container
 google.com##.widget-homescreen
 
 harzer-volksbank.de##.contentWerbung
+harzer-volksbank.de##.lightbox__content
 
 heise.de###bannerzone
 heise.de##.a-pvgs
@@ -232,6 +233,7 @@ twitter.com##section > div > div > div:has(> div > a > div > div > div > div > s
 twitter.com##section > div > div > div:has(> div > a[href*="/i/"]:has-text(/show more|more topics/i))
 twitter.com##section > div > div > div:has(> div > div:not(:min-text-length(1)))
 twitter.com##div:has(> div > div > h2:has-text(/Who to follow/))
+twitter.com##div:has(> div > section > div[aria-label*="Timeline"])
 twitter.com##div:has(> aside[aria-label*="Who to follow"])
 twitter.com##div:has(> aside[aria-label*="Relevant people"])
 
