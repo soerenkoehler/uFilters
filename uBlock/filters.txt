@@ -227,6 +227,7 @@ stackoverflow.com###herobox
 stackoverflow.com##.hero-container
 
 twitter.com##div[aria-label*="Trending"]
+twitter.com##section > div > div:has(> div > div > h2:has-text(/topics to follow/i))
 twitter.com##section > div > div > div:has(> div > div > h2:has-text(/suggested for you|topics to follow/i))
 twitter.com##section > div > div > div:has(> div > div > div > div > div > div > div > div > span:has-text(/follow$/i))
 twitter.com##section > div > div > div:has(> div > a > div > div > div > div > span:has-text(/follow$/i))
