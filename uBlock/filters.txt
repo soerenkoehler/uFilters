@@ -160,7 +160,6 @@ google.com##.widget-homescreen
 
 harzer-volksbank.de##.contentWerbung
 harzer-volksbank.de##.lightbox__content
-harzer-volksbank.de##.ui-widget-overlay:has(> div > div > iframe)
 
 heise.de###bannerzone
 heise.de##.a-pvgs
