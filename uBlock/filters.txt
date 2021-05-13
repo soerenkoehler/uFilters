@@ -117,18 +117,12 @@ dkb.de##.columnTeaserModule
 dkb.de##.currentNews
 dkb.de##.remarkBox
 
-# facebook.com##div[aria-label="See More"]
-# facebook.com##div[data-pagelet="Stories"]
-# facebook.com##div[data-pagelet="VideoChatHomeUnit"]
-# facebook.com##a[href*="/coronavirus"]
-# facebook.com##a[href*="/fundraisers"]
-# facebook.com##a[href*="/marketplace"]
-# facebook.com##a[href*="/watch/"]
-# facebook.com###pagelet_megaphone
-# facebook.com##div[data-pagelet="RightRail"] div:has-text(/sponsored/i)
-# facebook.com##div[role="article"]:has(a[aria-label="Sponsored"])
-# facebook.com##div[role="article"]:has(a[href*="/ads/"])
-# facebook.com##div:has(> div > div > div > div > div > div > div > div > div > div > span:has-text(/create room/i))
+facebook.com##a[href*="/coronavirus"]
+facebook.com##a[href*="/marketplace"]
+facebook.com##a[href*="/memories"]
+facebook.com##a[href*="/watch"]
+facebook.com##div[data-pagelet="Stories"]
+facebook.com##div:has(> div > div > div > div > div > div > div > div > div > div > span:has-text(/create room/i))
 
 github.com##.signup-prompt
 github.com##.hx_cookie-banner
