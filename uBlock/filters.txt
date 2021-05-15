@@ -117,10 +117,10 @@ dkb.de##.columnTeaserModule
 dkb.de##.currentNews
 dkb.de##.remarkBox
 
-facebook.com##a[href*="/coronavirus"]
-facebook.com##a[href*="/marketplace"]
-facebook.com##a[href*="/memories"]
-facebook.com##a[href*="/watch"]
+facebook.com##a[href*="/coronavirus/"]
+facebook.com##a[href*="/marketplace/"]
+facebook.com##a[href*="/memories/"]
+facebook.com##a[href*="/watch/"]
 facebook.com##div[data-pagelet="Stories"]
 facebook.com##div:has(> div > div > div > div > div > div > div > div > div > div > span:has-text(/create room/i))
 
