@@ -223,16 +223,20 @@ scinexx.de###div[id*="iqadtile"]
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
 
-twitter.com##div[aria-label*="Trending"]
 twitter.com##section > div > div:has(> div > div > h2:has-text(/topics to follow/i))
 twitter.com##section > div > div > div:has(> div > div > h2:has-text(/suggested for you|topics to follow/i))
 twitter.com##section > div > div > div:has(> div > div > div > div > div > div > div > div > span:has-text(/follow$/i))
 twitter.com##section > div > div > div:has(> div > a > div > div > div > div > span:has-text(/follow$/i))
 twitter.com##section > div > div > div:has(> div > a[href*="/i/"]:has-text(/show more|more topics/i))
 twitter.com##section > div > div > div:has(> div > div:not(:min-text-length(1)))
+twitter.com##div:has(> div > div > div > div > div > div > span > span:has-text(/follow/i))
+twitter.com##div:has(> div > div > a > div > span:has-text(/show more/i))
+twitter.com##div:has(> div > div > a > div > span:has-text(/more topics/i))
+twitter.com##div:has(> div > div > div > h2 > div > span:has-text(/topics to follow/i))
 twitter.com##div:has(> div > div > h2:has-text(/who to follow/i))
 twitter.com##div:has(> aside[aria-label*="Who to follow"])
 twitter.com##div:has(> aside[aria-label*="Relevant people"])
+twitter.com##div[aria-label*="Trending"]
 
 wikimedia.org###centralNotice
 wikipedia.org##div[id*="Notice"]
