@@ -145,6 +145,7 @@ golem.de##.activity
 golem.de##.g2
 golem.de##.gnlform
 golem.de##div.tags
+golem.de##div.teaser-widget
 golem.de##div[class*="social-"]
 golem.de##.side-panel__open-container
 golem.de##.icon-save-article-container
