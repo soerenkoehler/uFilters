@@ -265,3 +265,5 @@ zeit.de##.paywall-footer
 zeit.de##.page .page
 zeit.de##article form
 ||zeit.de/static/js$script,important
+
+zurich.de##div.container:has(div.field-promoicon)
