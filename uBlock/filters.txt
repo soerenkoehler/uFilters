@@ -212,6 +212,8 @@ paypal.com###js_engagementModuleView
 paypal.com##.slide
 paypal.com##.toolbar
 
+photos.google.com##html-blob:has-text(/shop now/i)
+
 schriftwechsel.wordpress.com###masthead
 
 scinexx.de##.header-middle
