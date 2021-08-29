@@ -80,6 +80,7 @@ amazon.de###rightRail
 amazon.de###rhf
 amazon.de##.super-tcg
 amazon.de###detail-ilm_div
+amazon.de##[data-cel-widget="search_result_0"]
 amazon.de##[data-component-type="s-top-slot"]
 amazon.de##a[href*="/gp/gold"]
 
