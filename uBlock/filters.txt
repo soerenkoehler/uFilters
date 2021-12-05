@@ -106,7 +106,7 @@ deutsche-bank.de###headerContainer > cms-snippet
 
 deutschepost.de##.swiper-wrapper
 
-deutschlandfunk.de##header
+deutschlandfunk.de##.b-header
 deutschlandfunk.de##.dlf-relatedslide
 deutschlandfunk.de##.dlf-headsocial
 # Mediathek
