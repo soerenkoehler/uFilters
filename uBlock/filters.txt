@@ -225,6 +225,8 @@ scinexx.de###footer
 scinexx.de###readspeaker_button1
 scinexx.de###div[id*="iqadtile"]
 
+spiegel.de##footer
+
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
 
