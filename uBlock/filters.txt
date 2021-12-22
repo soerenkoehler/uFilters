@@ -98,12 +98,6 @@ der-postillon.com##.advice-logo
 der-postillon.com###head
 der-postillon.com###cookieChoiceInfo
 
-deutsche-bank.de##.teaser
-deutsche-bank.de###topicContainer > ._.redDotSnippet.advice
-deutsche-bank.de###accountTurnoversForm > .formAction > .previousStep
-deutsche-bank.de###localNavigation > .indicatorNew
-deutsche-bank.de###headerContainer > cms-snippet
-
 deutschepost.de##.swiper-wrapper
 
 deutschlandfunk.de##.b-header
