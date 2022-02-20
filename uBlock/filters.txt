@@ -55,6 +55,7 @@ amazon.de###OneClickBox
 amazon.de###oneClickSignIn
 amazon.de##.a-button-oneclick
 amazon.de##.sc-one-click
+amazon.de###widget-rightUpsellSlot
 amazon.de###sc-new-upsell
 amazon.de###spc-stripe-upsell
 amazon.de###bbop-sbbop-container
@@ -239,6 +240,7 @@ youhaventlived.com##[src*="facebook.com"]
 youtube.com###chat
 youtube.com###chips
 youtube.com###footer
+youtube.com##a[title="Shorts"]
 youtube.com##a[href="/feed/explore"]
 youtube.com##a[href="/feed/library"]
 youtube.com##a[href="/feed/purchases"]
