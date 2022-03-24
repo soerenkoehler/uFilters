@@ -150,8 +150,10 @@ golem.de##.side-panel__open-container
 golem.de##.icon-save-article-container
 ||golem.de/*/sp_*_rc.jpg
 
-# Google Maps Info Sidepanel
+# Google Maps Info Panels
 google.com##.widget-homescreen
+google.com###assistive-chips
+google.com###passive-assist
 
 harzer-volksbank.de##.contentWerbung
 harzer-volksbank.de##.lightbox__content
