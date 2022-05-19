@@ -118,6 +118,7 @@ facebook.com##a[href*="/marketplace/"]
 facebook.com##a[href*="/memories/"]
 facebook.com##a[href*="/watch/"]
 facebook.com##div[sfx_id*="ads"]
+facebook.com##div[aria-label="Stories"]
 facebook.com##div[data-pagelet="Stories"]
 facebook.com##div[data-pagelet="RightRail"] > div:has-text(/friend requests/i)
 facebook.com##div[data-pagelet="RightRail"] > div:has-text(/suggested for you/i)
