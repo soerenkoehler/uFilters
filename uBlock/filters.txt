@@ -186,6 +186,8 @@ heise.de##.nav-bottom
 ||heise.de/avw-bin/$important
 ||heise.de/ivw-bin/$important
 
+ifttt.com##div:has(> a[href*="subscription/pro"])
+
 inoreader.com###below_tree
 inoreader.com###tree_announce
 inoreader.com###static_search_menu_container
