@@ -118,15 +118,12 @@ facebook.com##a[href*="/marketplace/"]
 facebook.com##a[href*="/memories/"]
 facebook.com##a[href*="/watch/"]
 facebook.com##div[sfx_id*="ads"]
-facebook.com##div[role="article"]:has(> a[href*="/ads/about"])
+facebook.com##div[role="article"]:has(div[data-ad-preview="message"])
 facebook.com##div[aria-label="Stories"]
 facebook.com##div[data-pagelet="Stories"]
 facebook.com##div[data-pagelet="RightRail"] > div:has-text(/friend requests/i)
 facebook.com##div[data-pagelet="RightRail"] > div:has-text(/suggested for you/i)
 facebook.com##div[data-pagelet="RightRail"] > div:has-text(/group conversations/i)
-facebook.com##div:has(> span:has-text(/Survey/i))
-facebook.com##div:has(> span:has-text(/Sponsored/i))
-facebook.com##div:has(> div > div > div > div > div > div > div > div > div > div > span:has-text(/create room/i))
 
 github.com##.signup-prompt
 github.com##.hx_cookie-banner
