@@ -72,6 +72,7 @@ amazon.de###your-orders-background
 amazon.de###top
 amazon.de###marketing
 amazon.de###gw-desktop-herotator
+amazon.de###osu-prime-recommendations
 amazon.de###TryPrime
 amazon.de###gw-hud-grid
 amazon.de###hud-dashboard
