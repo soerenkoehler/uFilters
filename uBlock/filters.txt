@@ -93,6 +93,8 @@ boingboing.net###sidebar
 boingboing.net###footer
 boingboing.net###mainimage
 
+chess.com###main-banner
+
 der-postillon.com##.reklame-bs-quiz.widget
 der-postillon.com###sidebar
 der-postillon.com###comments
