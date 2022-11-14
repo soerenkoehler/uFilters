@@ -94,6 +94,7 @@ boingboing.net###footer
 boingboing.net###mainimage
 
 chess.com###main-banner
+chess.com##.modal-first-time-component
 
 der-postillon.com##.reklame-bs-quiz.widget
 der-postillon.com###sidebar
