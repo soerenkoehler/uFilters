@@ -98,6 +98,8 @@ chess.com##.modal-first-time-component
 
 der-postillon.com##.reklame-bs-quiz.widget
 der-postillon.com###sidebar
+der-postillon.com###footer-wrapper
+der-postillon.com##.post-footer
 der-postillon.com###comments
 der-postillon.com##.advice-logo
 der-postillon.com###head
