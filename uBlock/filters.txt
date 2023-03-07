@@ -171,22 +171,23 @@ harzer-volksbank.de##.ui-dialog:has(> div > iframe)
 
 heise.de###bannerzone
 heise.de##.a-pvgs
-heise.de##.pvg-widget
 heise.de##.a-ad
-heise.de##.bcadv
 heise.de##.ad-container
+heise.de##.bcadv
 heise.de##.ho-stage-container
 heise.de##.recommendations
+heise.de##.theme-heiseplus
 heise.de##.plus_buehne
 heise.de##.buehnenteaser
 heise.de##.hoteaser
+heise.de##.teaser-grid
 heise.de##.mheise--preisvergleich-banner
 heise.de##.header-main
 heise.de##.topnavigation-menu
 heise.de##.article-sidebar
-heise.de##.teaser-grid
 heise.de##.bottom_up
 heise.de##.nav-bottom
+heise.de##.pvg-widget
 ||heise.de/js/$script,important
 ||heise.de/avw-bin/$important
 ||heise.de/ivw-bin/$important
