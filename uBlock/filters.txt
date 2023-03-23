@@ -215,6 +215,7 @@ leo.org###footer
 leo.org##.l-www-adv
 leo.org##.l-dict-adv
 leo.org###adv-halfpage
+leo.org##div:has(> div[id*=adv-])
 
 openstreetmap.org##.welcome
 openstreetmap.org###sotm
