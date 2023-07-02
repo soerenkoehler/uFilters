@@ -217,6 +217,9 @@ leo.org##.l-dict-adv
 leo.org###adv-halfpage
 leo.org##div:has(> div[id*=adv-])
 
+mastodon.social##div.column:has(>div.getting-started)
+mastodon.social##a.drawer__tab[title="Getting started"]
+
 openstreetmap.org##.welcome
 openstreetmap.org###sotm
 openstreetmap.org###banner
