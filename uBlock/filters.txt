@@ -245,6 +245,8 @@ spiegel.de##footer
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
 
+twitter.com##div[data-testid="inlinePrompt"]
+
 wikimedia.org###centralNotice
 wikipedia.org##div[id*="Notice"]
 
