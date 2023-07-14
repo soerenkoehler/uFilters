@@ -240,6 +240,7 @@ scinexx.de###header-ads
 scinexx.de###footer
 scinexx.de###readspeaker_button1
 scinexx.de###div[id*="iqadtile"]
+scinexx.de###iqd_align_Ad
 
 spiegel.de##footer
 
