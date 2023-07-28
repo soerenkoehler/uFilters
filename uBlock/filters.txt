@@ -93,6 +93,8 @@ boingboing.net###sidebar
 boingboing.net###footer
 boingboing.net###mainimage
 
+buffer.com###upgradeCTA
+
 chess.com###main-banner
 chess.com##.modal-first-time-component
 
