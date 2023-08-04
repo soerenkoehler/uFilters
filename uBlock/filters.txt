@@ -233,6 +233,7 @@ paypal.com##.slide
 paypal.com##.toolbar
 
 photos.google.com##html-blob:has-text(/shop now/i)
+photos.google.com##c-wiz:has(> div[role="alert"]:has(a[href="./printstore"]))
 
 schriftwechsel.wordpress.com###masthead
 
