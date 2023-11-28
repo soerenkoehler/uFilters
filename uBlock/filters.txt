@@ -276,10 +276,6 @@ youtube.com##a[href="/feed/trending"]
 youtube.com##a[href="/gaming"]
 youtube.com##a[href="/premium"]
 
-#youtube.com###guide-renderer div ytd-guide-section-renderer:nth-child(2)
-#youtube.com###guide-renderer div ytd-guide-section-renderer:nth-child(3)
-#youtube.com###guide-renderer div ytd-guide-section-renderer:nth-child(4)
-
 youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(2)
 youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(3)
 youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(4)
