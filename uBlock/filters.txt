@@ -283,6 +283,7 @@ youtube.com###guide-links-primary
 youtube.com###guide-links-secondary
 youtube.com###copyright
 youtube.com##div#contents > .ytd-section-list-renderer[is-playlist-shelf]
+youtube.com##div#contents > .ytd-section-list-renderer[is-playlist-video-container]
 
 zeit.de##.sticky-nav
 zeit.de##.footer
