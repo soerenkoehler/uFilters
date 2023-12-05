@@ -282,7 +282,7 @@ youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-ty
 youtube.com###guide-links-primary
 youtube.com###guide-links-secondary
 youtube.com###copyright
-youtube.com##div#contents > .ytd-section-list-renderer:nth-of-type(2)
+youtube.com##div#contents > .ytd-section-list-renderer[is-playlist-shelf]
 
 zeit.de##.sticky-nav
 zeit.de##.footer
