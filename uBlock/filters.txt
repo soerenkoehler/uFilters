@@ -235,6 +235,9 @@ paypal.com##.toolbar
 photos.google.com##html-blob:has-text(/shop now/i)
 photos.google.com##c-wiz:has(> div[role="alert"]:has(a[href="./printstore"]))
 
+proton.me##.button-promotion
+proton.me###yourplan
+
 schriftwechsel.wordpress.com###masthead
 
 scinexx.de##.header-middle
