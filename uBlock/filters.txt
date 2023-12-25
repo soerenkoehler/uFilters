@@ -86,6 +86,8 @@ amazon.de##[data-cel-widget="search_result_0"]
 amazon.de##[data-component-type="s-top-slot"]
 amazon.de##a[href*="/gp/gold"]
 
+blitzortung.org##.topdiv
+
 blogspot.com###cookieChoiceInfo
 
 boingboing.net###next-post-thumbnails
@@ -137,30 +139,6 @@ facebook.com##div:has(> div > div > div > div > div > span a[href*="ads"])
 github.com##.signup-prompt
 github.com##.hx_cookie-banner
 
-golem.de###golem-cookie-accept
-golem.de###video-clip
-golem.de###gts-clip
-golem.de###related
-golem.de###small-ticker10
-golem.de###iqadtile9
-golem.de###job-market
-golem.de###abo-clip
-golem.de###pricehits
-golem.de###recently
-golem.de###newsletter
-golem.de##.specialletters
-golem.de##.topics
-golem.de##.promos
-golem.de##.activity
-golem.de##.g2
-golem.de##.gnlform
-golem.de##div.tags
-golem.de##div.teaser-widget
-golem.de##[class*="social-"]
-golem.de##.side-panel__open-container
-golem.de##.icon-save-article-container
-||golem.de/*/sp_*_rc.jpg
-
 # Google Maps Info Panels
 google.com##.widget-homescreen
 google.com###assistive-chips
@@ -171,46 +149,7 @@ harzer-volksbank.de##.lightbox__content
 harzer-volksbank.de##.ui-widget-overlay
 harzer-volksbank.de##.ui-dialog:has(> div > iframe)
 
-heise.de###bannerzone
-heise.de##.a-pvgs
-heise.de##.a-ad
-heise.de##.ad-container
-heise.de##.bcadv
-heise.de##.ho-stage-container
-heise.de##.recommendations
-heise.de##.theme-heiseplus
-heise.de##.plus_buehne
-heise.de##.buehnenteaser
-heise.de##.hoteaser
-heise.de##.teaser-grid
-heise.de##.mheise--preisvergleich-banner
-heise.de##.header-main
-heise.de##.topnavigation-menu
-heise.de##.article-sidebar
-heise.de##.bottom_up
-heise.de##.nav-bottom
-heise.de##.pvg-widget
-||heise.de/js/$script,important
-||heise.de/avw-bin/$important
-||heise.de/ivw-bin/$important
-
 ifttt.com##div:has(> a[href*="subscription/pro"])
-
-inoreader.com###below_tree
-inoreader.com###tree_announce
-inoreader.com###static_search_menu_container
-inoreader.com###static_search_menu
-inoreader.com##.add_content_simulated_button
-
-ionos.de##.__direct-selection
-ionos.de##.page-section--advertising
-ionos.de##.page-footer
-ionos.de##.adserver
-ionos.de###adserver-banner-top
-ionos.de###adserver-banner-detail-servers
-ionos.de###ads-id-cp_servers_details_stripe
-||frontend-services.ionos.com/t/privacyconsent/*$script
-||ias.ionos.de/ias/*$script
 
 leo.org###topBranding
 leo.org###footer
@@ -222,6 +161,9 @@ leo.org##div:has(> div[id*=adv-])
 mastodon.social##div.column:has(>div.getting-started)
 mastodon.social##a.drawer__tab[title="Getting started"]
 mastodon.social##button:has(> span:has-text("Translate"))
+
+niederschlagsradar.de##.banner-desktop.banner
+niederschlagsradar.de##div[data-component="SnippetFooter"]
 
 openstreetmap.org##.welcome
 openstreetmap.org###sotm
@@ -253,17 +195,8 @@ spiegel.de##footer
 stackoverflow.com###herobox
 stackoverflow.com##.hero-container
 
-twitter.com##div[data-testid="inlinePrompt"]
-
 wikimedia.org###centralNotice
 wikipedia.org##div[id*="Notice"]
-
-wordpress.com##.updated
-wordpress.com###wordads-preview-parent
-
-yello.de##.survey--simple
-yello.de##.swiper-container
-yello.de##.story
 
 youhaventlived.com##[src*="facebook.com"]
 
@@ -287,22 +220,5 @@ youtube.com###guide-links-secondary
 youtube.com###copyright
 youtube.com##div#contents > .ytd-section-list-renderer[is-playlist-shelf]
 youtube.com##div#contents > .ytd-section-list-renderer[is-playlist-video-container]
-
-zeit.de##.sticky-nav
-zeit.de##.footer
-zeit.de##.comment-section__item.comment-section__form
-zeit.de###nextread
-zeit.de##.nextread-advertisement
-zeit.de##.article-series
-zeit.de##.article__item.article-tags
-zeit.de##.article__item.article-footer
-zeit.de##.advertising
-zeit.de###addefend-overlay
-zeit.de###overlay-addefend
-zeit.de###data-protection-overlay
-zeit.de##.paywall-footer
-zeit.de##.page .page
-zeit.de##article form
-||zeit.de/static/js$script,important
 
 zurich.de##div.container:has(div.field-promoicon)
