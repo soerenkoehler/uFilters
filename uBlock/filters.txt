@@ -200,9 +200,6 @@ wikipedia.org##div[id*="Notice"]
 
 youhaventlived.com##[src*="facebook.com"]
 
-youtube.com###chat
-youtube.com###chips
-youtube.com###footer
 youtube.com##a[title="Shorts"]
 youtube.com##a[href="/feed/explore"]
 youtube.com##a[href="/feed/library"]
@@ -215,10 +212,15 @@ youtube.com##a[href="/premium"]
 youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(2)
 youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(3)
 youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(4)
-youtube.com###guide-links-primary
-youtube.com###guide-links-secondary
-youtube.com###copyright
 youtube.com##div#contents > .ytd-section-list-renderer[is-playlist-shelf]
 youtube.com##div#contents > .ytd-section-list-renderer[is-playlist-video-container]
+
+youtube.com###chat
+youtube.com###chips
+youtube.com###copyright
+youtube.com###footer
+youtube.com###guide-links-primary
+youtube.com###guide-links-secondary
+youtube.com###panels-full-bleed-container
 
 zurich.de##div.container:has(div.field-promoicon)
