@@ -201,6 +201,8 @@ wikipedia.org##div[id*="Notice"]
 youhaventlived.com##[src*="facebook.com"]
 
 youtube.com##a[title="Shorts"]
+youtube.com##a[href*="/channel"]
+youtube.com##a[href="/feed/courses"]
 youtube.com##a[href="/feed/explore"]
 youtube.com##a[href="/feed/library"]
 youtube.com##a[href="/feed/purchases"]
