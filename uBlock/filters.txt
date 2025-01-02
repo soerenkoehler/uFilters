@@ -224,5 +224,3 @@ youtube.com###footer
 youtube.com###guide-links-primary
 youtube.com###guide-links-secondary
 youtube.com###panels-full-bleed-container
-
-zurich.de##div.container:has(div.field-promoicon)
